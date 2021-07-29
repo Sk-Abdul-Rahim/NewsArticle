@@ -1,0 +1,16 @@
+#btnSearch{
+    width: 46px;
+    height: 22px;
+}
+
+#main{
+width: 650px;
+height: 200px;
+    margin: 0px auto;
+    border: 1px 1px black
+}
+
+/* .card{
+    width: 450px;
+    height: 300px;
+} */
